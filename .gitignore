@@ -1,0 +1,19 @@
+# Python environment
+venv/
+.env
+
+# System files
+.DS_Store
+
+# Cache
+__pycache__/
+
+# Datasets
+*.csv
+
+# Logs
+*.log
+
+# ML models
+*.safetensors
+*.pkl
