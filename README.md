@@ -94,6 +94,9 @@ streamlit run frontend/streamlit_app.py
 The app opens at `http://localhost:8501`.
 
 
+## Project Architecture
+![Architecture Diagram](architecture/architecture.jpeg)
+
 Notes:
  
 Security: Never commit .env or secrets.toml files to GitHub — they contain sensitive API keys.
